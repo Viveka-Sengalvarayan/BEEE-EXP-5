@@ -29,9 +29,9 @@ PROCEDURE:
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
 
-REGULATION CHARACTERISTICS:
+![image](https://github.com/Viveka-Sengalvarayan/BEEE-EXP-5/blob/main/5.1.jpeg?raw=true)
 
-V-I & REGULATION CHARACTERISTICS:
+![image](https://github.com/Viveka-Sengalvarayan/BEEE-EXP-5/blob/main/5.2.jpeg?raw=true)
 
 PRECAUTIONS:
 
@@ -39,5 +39,8 @@ PRECAUTIONS:
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
+
+ ![image](https://github.com/Viveka-Sengalvarayan/BEEE-EXP-5/blob/main/5.3.png?raw=true)
+ 
 RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
